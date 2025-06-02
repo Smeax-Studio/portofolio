@@ -17,7 +17,8 @@ Avec sidebar, animations, icônes GitHub/Discord, et contenu dynamique.
 - `assets/icons/*.svg`
 
 ## 📦 Déploiement
-Tu peux héberger ce site sur GitHub Pages, Vercel, Netlify, ou directement via Plesk.
+Tu peux héberger ce site sur GitHub Pages, ou notre propre [herbergeur web](https://discord.gg/5n9eRufakB), Vercel, Netlify, ou directement via Plesk.
 
----
+
+
 Créé avec par 💙[Smeax](https://smeax.fr)
